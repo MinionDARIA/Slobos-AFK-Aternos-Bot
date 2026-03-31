@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "schooolmcx.falixsrv.me",
+    "ip": "167.235.93.185:20364",
     "port": 20364,
     "version": "",
     "try-creative": false
